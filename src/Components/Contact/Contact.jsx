@@ -106,16 +106,16 @@ class Contact extends Component {
                     <label>
                       <b>Get Social:</b>
                     </label>
-                    <a href="">
+                    <a href="#facebook">
                       <i className="fa fa-facebook"></i>{" "}
                     </a>
-                    <a href="">
+                    <a href="#youtube">
                       <i className="fa fa-youtube-play"></i>{" "}
                     </a>
-                    <a href="">
+                    <a href="#twitter">
                       <i className="fa fa-twitter"></i>{" "}
                     </a>
-                    <a href="">
+                    <a href="#gplus">
                       <i className="fa fa-google-plus"></i>{" "}
                     </a>
                   </div>

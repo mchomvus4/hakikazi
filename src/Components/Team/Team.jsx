@@ -13,8 +13,8 @@ import team1 from '../assets/samwel.jpeg';
                         <img src={team1} alt="hakuna picha" className="img-responsive"/>
                         <ul>
                             <a rel='noreferrer noopener' href="https://web.facebook.com/Programming-with-CodeX2020-101471344786320/" target="_blank" ><li><i className="fa fa-facebook"></i></li></a>
-                            <a href=""><li><i className="fa fa-twitter"></i></li></a>
-                            <a href=""><li><i className="fa fa-linkedin"></i></li></a>
+                            <a href="#twitter"><li><i className="fa fa-twitter"></i></li></a>
+                            <a href="#linkedin"><li><i className="fa fa-linkedin"></i></li></a>
                         </ul>
                     </div>
                     <h2>Samwel Mchomvu</h2>
@@ -26,8 +26,8 @@ import team1 from '../assets/samwel.jpeg';
                         <img src={team1} alt="hakuna picha" className="img-responsive"/>
                         <ul>
                             <a rel='noreferrer noopener' href="https://web.facebook.com/Programming-with-CodeX2020-101471344786320/" target="_blank" ><li><i className="fa fa-facebook"></i></li></a>
-                            <a href=""><li><i className="fa fa-twitter"></i></li></a>
-                            <a href=""><li><i className="fa fa-linkedin"></i></li></a>
+                            <a href="#twitter"><li><i className="fa fa-twitter"></i></li></a>
+                            <a href="#linkedin"><li><i className="fa fa-linkedin"></i></li></a>
                         </ul>
                     </div>
                     <h2>Samwel Mchomvu</h2>
@@ -38,8 +38,8 @@ import team1 from '../assets/samwel.jpeg';
                         <img src={team1} alt="hakuna picha" className="img-responsive"/>
                         <ul>
                             <a rel='noreferrer noopener' href="https://web.facebook.com/Programming-with-CodeX2020-101471344786320/" target="_blank" ><li><i className="fa fa-facebook"></i></li></a>
-                            <a href=""><li><i className="fa fa-twitter"></i></li></a>
-                            <a href=""><li><i className="fa fa-linkedin"></i></li></a>
+                            <a href="#twitter"><li><i className="fa fa-twitter"></i></li></a>
+                            <a href="#linkedin"><li><i className="fa fa-linkedin"></i></li></a>
                         </ul>
                     </div>
                     <h2>Samwel Mchomvu</h2>
@@ -50,8 +50,8 @@ import team1 from '../assets/samwel.jpeg';
                         <img src={team1} alt="hakuna picha" className="img-responsive"/>
                         <ul>
                             <a rel='noreferrer noopener' href="https://web.facebook.com/Programming-with-CodeX2020-101471344786320/" target="_blank" ><li><i className="fa fa-facebook"></i></li></a>
-                            <a href=""><li><i className="fa fa-twitter"></i></li></a>
-                            <a href=""><li><i className="fa fa-linkedin"></i></li></a>
+                            <a href="twitter"><li><i className="fa fa-twitter"></i></li></a>
+                            <a href="linkedin"><li><i className="fa fa-linkedin"></i></li></a>
                         </ul>
                     </div>
                     <h2>Samwel Mchomvu</h2>

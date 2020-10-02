@@ -5,7 +5,7 @@ import './Promo.css';
     <section id="promo">
         <div className="container">
             <p>Welcome to our Legal Firm and we will attend you affordable</p>
-            <a href="" className="btn btn-primary">Contact Us</a>
+            <a href="#cont" className="btn btn-primary">Contact Us</a>
         </div>
     </section>
   );
