@@ -1,7 +1,7 @@
 import React from 'react'
 import axios from 'axios'
-import { Card, CardBody, CardHeader, Col, Row, Table, Navbar } from 'reactstrap';
-import jsPDF from 'jspdf'
+import { Card, CardBody, CardHeader, Col, Row, Table } from 'reactstrap';
+// import jsPDF from 'jspdf'
 import {useState, useEffect} from  'react'
 import CustomerNavBar from '../CustomerNavBar/CustomerNavBar';
 
