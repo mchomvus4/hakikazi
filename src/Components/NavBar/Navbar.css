@@ -1,0 +1,52 @@
+*{
+    margin:0;
+    padding: 0;
+}
+
+/* -----------Navigation------- */
+#nav-bar{
+    position: sticky;
+    top:0;
+    z-index: 10;
+    background: rgb(7, 62, 99);
+}
+
+.navbar-brand img{
+    height: 60px;
+    padding-left: 30px; 
+    
+}
+
+.navbar-nav li{
+    padding: 0 10px;
+   
+}
+
+.navbar-nav li a{
+   float: right;
+   text-align: left;
+}
+
+#nav-bar ul li a:hover{
+    color: #fff!important;
+
+}
+#navbar{
+    background: green;
+}
+
+.navbar-toggler{
+    border: none!important;
+}
+
+.nav-link{
+    color: rgba(182, 136, 10, 0.87)!important;
+    font-weight:600;
+    font-size:16px;
+    text-transform: uppercase;
+}
+.hakikazi{
+  font-size: 30px;
+  text-shadow: 8px 8px 8px black;
+  color: #fff!important;
+}

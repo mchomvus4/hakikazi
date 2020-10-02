@@ -1,0 +1,35 @@
+#about{
+    padding-top: 50px;
+    padding-bottom: 50px;
+    color:#555;
+}
+
+#about .btn{
+    margin-top: 20px;
+    margin-bottom: 30px;
+
+}
+.about-content{
+    padding-top: 20px;
+}
+#about .progress-bar1{
+    width: 88%;
+}
+
+.proffesionalism p{
+  margin-bottom: 6px;
+  font-weight: 600;
+  margin-top: 50px;
+}
+
+.progress-bar{
+    border-radius: 16px;
+}
+.progress{
+    border-radius: 16px!important;
+    margin-bottom: 20px;
+}
+
+h2{
+    margin-top: 50px;;
+}
