@@ -60,26 +60,7 @@ For example, if you received an award or have a high ranking on a site like Avvo
                  </div>
                  {/* <button type="button" className="btn btn-primary">Read More>></button> */}
                 </div>
-             {/* <div className="col-md-6 proffesionalism collapse">
-                 <p>Corporate Law</p>
-                    <div className="progress">
-                        <div className="progress-bar" style={{width:"80%"}}>80%</div> 
-                    </div>
-
-                    <p>Criminal Law</p>
-                    <div className="progress">
-                        <div className="progress-bar" style={{width:"88%"}}>88%</div> 
-                    </div>
-
-                    <p>Labour Law</p>
-                    <div className="progress">
-                        <div className="progress-bar" style={{width:"96%"}}>96%</div> 
-                    </div>
-                    <p>Administrative  Law</p>
-                    <div className="progress">
-                        <div className="progress-bar" style={{width:"75%"}}>75%</div> 
-                    </div>
-                      </div> */}
+        
                       </div> 
         </div>
     </div>
