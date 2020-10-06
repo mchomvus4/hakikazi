@@ -4,7 +4,7 @@ import './About.css';
   return (
     <section id="about"> 
     <div className="container" >
-              <div className="row">
+              <div className="row btn-row">
                  <button className="btn btn-primary" data-toggle="collapse" data-target="#about-us">About Us</button>
                 <div className="collapse" id ="about-us">
                  <div className="about-content">
